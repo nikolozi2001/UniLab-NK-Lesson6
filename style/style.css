@@ -199,6 +199,6 @@ a{
 .footer-text2{
 	float: right;
 	font-size: 12px;
-	display: inline-block;
+	/* display: inline-block; კარგით გმადლობთ*/
     margin-top: 20px;
 }
